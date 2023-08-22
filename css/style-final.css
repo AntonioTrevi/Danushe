@@ -175,16 +175,14 @@ a:hover {
 
 #clue-container {
 	max-width: 100%;
-	background-image: url(/img/header-background.jpg);
 	background-size: cover;
-	color: var(--color-white);
+	color: var(--color-dark-light);
 	text-align: center;
 	text-shadow: rgb(99, 99, 99) 0.063rem 0.063rem;
 	padding: 1em;
 }
 #clue-container p {
 	font-weight: 500;
-	color: white;
 	text-shadow: 0.313rem 0.313rem 0.625rem rgb(0, 0, 0);
 }
 #clue-container h2 {
