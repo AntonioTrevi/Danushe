@@ -178,18 +178,14 @@ a:hover {
 	background-size: cover;
 	color: var(--color-dark-light);
 	text-align: center;
-	text-shadow: rgb(99, 99, 99) 0.063rem 0.063rem;
 	padding: 1em;
 }
-#clue-container p {
-	font-weight: 500;
-	text-shadow: 0.313rem 0.313rem 0.625rem rgb(0, 0, 0);
-}
+
 #clue-container h2 {
-	color: var(--color-white);
+	color: var(--color-dark);
 }
 #clue-container h1 {
-	color: var(--color-white);
+	color: var(--color-dark);
 }
 #contact {
 	width: 100%;
@@ -339,3 +335,4 @@ a:hover {
 		margin-bottom: 1em;
 	}
 }
+/* <!-- changes --> */
