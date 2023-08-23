@@ -148,7 +148,7 @@ a:hover {
 	justify-content: center;
 	align-items: center;
 	background-size: cover;
-	background-image: url(../img/background.jpg);
+	background-image: url(.img/background.jpg);
 }
 #about .container {
 	display: flex;
