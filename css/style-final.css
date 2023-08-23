@@ -246,6 +246,12 @@ a:hover {
 	h1 {
 		font-size: 2.6rem;
 	}
+	#about {
+		-webkit-background-size: contain;
+		-moz-background-size: contain;
+		-o-background-size: contain;
+		background-size: contain;
+	}
 	#clue-container {
 		padding: 1em 2em;
 		max-height: 80vh;
