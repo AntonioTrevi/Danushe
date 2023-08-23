@@ -147,7 +147,7 @@ a:hover {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-size: contain;
+	background-size: cover;
 	background-image: url("./img/background.jpg");
 	/* -webkit-background-size: contain;
 	-moz-background-size: contain;
