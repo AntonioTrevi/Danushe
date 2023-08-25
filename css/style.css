@@ -254,6 +254,7 @@ a:hover {
 		text-align: center;
 		flex-direction: column;
 		padding: 4em;
+		justify-content: center;
 	}
 	.gallery-images {
 		gap: 3.75rem;
